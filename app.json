@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "UMS Calculator",
+    "slug": "metal-calc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "kostg",
+    "extra": {
+      "eas": {
+        "projectId": "68b95da6-c2ee-4498-ad36-e84811d40e76"
+      }
+    },
+    "android": {
+      "package": "com.kostg.metalcalc"
+    }
+  }
+}
